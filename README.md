@@ -6,7 +6,7 @@ Sleep apnea in children is a major health problem affecting one to five percent 
 ## Method
 
 
-<img src="https://ibb.co/WHRdzZ7" width="100" height="100">
+<img src="https://github.com/healthylaife/Pediatric-Apnea-Detection/assets/62315376/bcaf5c4a-bdc0-4f90-9ac9-95397422bb3e" width="660" height="364">
 
 ## Citation
 
