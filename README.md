@@ -10,3 +10,10 @@ Sleep apnea in children is a major health problem affecting one to five percent 
 
 ## Citation
 
+@inproceedings{fayyaz2023bri,
+  title={Bringing At-home Pediatric Sleep Apnea Testing Closer to Reality: A Multi-modal Transformer Approach},
+  author={Fayyaz, Hamed and Strang, Abigail and Beheshti, Rahmatollah},
+  booktitle={Machine Learning for Healthcare Conference},
+  year={2023},
+  organization={PMLR}
+}
